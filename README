@@ -1,0 +1,6 @@
+Input
+Pe prima linie a fișierului se află 2 numere N si M reprezentând dimensiunile terenului. Pe următoarele N linii se vor găsi N string-uri de lungime M fiecare, cu litere corespunzătoare numelor terenurilor (W,L,V,D).
+
+Pe următoarea linie se va gasi un număr P reprezentând numărul de personaje. Pe următoarele P linii se vor găsi câte un string reprezentând rasa fiecărui personaj și poziția lui inițială (e.g. “W 0 1” înseamnă un Wizard poziționat pe rândul 0 coloana 1).
+
+Pe următoarea linie se găsește R, numărul de runde. Fiecare rundă e descrisă de P litere din mulțimea 'U'(up ⇔ rând–), 'D'(down ⇔ rând++), 'L'(left ⇔ col–), 'R'(right ⇔ col++), sau '_' (fără mișcare) indicând direcția în care se mișcă fiecare personaj. Direcțiile sunt atribuite eroilor în ordinea în care au fost descrise personajele in fișierul de intrare.
